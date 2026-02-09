@@ -4,7 +4,8 @@
     font-family: Verdana, "DejaVU", sans-serif;
 }
 #two {
-    background-color: rgb(0, 0, 255);
+    color: rgb(0, 0, 255);
+    font-size: 36px;
 }
 .big {
     font-size: 24px;
