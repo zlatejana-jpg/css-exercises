@@ -7,6 +7,9 @@ body {
   width: 400px;
   background: #fff;
   margin: 16px auto;
+  box-sizing: border-box;
+  display: grid;
+
 }
 
 .title {
